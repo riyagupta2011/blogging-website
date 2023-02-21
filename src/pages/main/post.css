@@ -1,0 +1,28 @@
+.mypost
+{
+    display:flex;
+    flex-direction: column;
+    padding:12px;
+    margin:auto;
+    background-color: #a3d1ef;
+    margin-top:51px;
+    
+    
+    border-radius:10px;
+    width:703px;
+    height:250px;
+    align-items:center;
+    justify-content: center;
+}
+.title{
+  padding:12px;
+}
+.body
+{
+    padding:12px;
+    font-size:18px;
+}
+.name{
+    font-size:12px;
+
+}
